@@ -1,0 +1,36 @@
+# Python virtual environments
+
+.venv/
+venv/
+env/
+
+# Python cache
+
+**pycache**/
+*.py[cod]
+
+# Pytest cache
+
+.pytest_cache/
+
+# PyInstaller generated files
+
+build/
+dist/
+*.spec
+
+# IDE settings
+
+.vscode/
+.idea/
+
+# Operating system files
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment variables
+
+.env
+.env.*
